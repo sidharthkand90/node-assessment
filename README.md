@@ -1,6 +1,7 @@
 # node-assessment
 
 npm i
+
 npm start
 
 Testing cases
